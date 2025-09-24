@@ -1,4 +1,3 @@
 {
-  "forkProcessing": "enabled",
-  "baseBranches": ["main"]
+  "forkProcessing": "enabled"
 }

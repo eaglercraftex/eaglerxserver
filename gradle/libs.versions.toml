@@ -1,7 +1,7 @@
 [versions]
 bungeecord = "1.21-R0.1-SNAPSHOT"
 velocity = "3.4.0-SNAPSHOT"
-velocity-adventure = "4.19.0"
+velocity-adventure = "4.24.0"
 paper = "1.12.2-R0.1-SNAPSHOT"
 netty = "4.1.119.Final"
 

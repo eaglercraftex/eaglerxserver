@@ -23,7 +23,7 @@ netty-codec-http = { module = "io.netty:netty-codec-http", version.ref = "netty"
 netty-codec-haproxy = { module = "io.netty:netty-codec-haproxy", version.ref = "netty" }
 netty-transport-epoll = { module = "io.netty:netty-transport-native-epoll", version.ref = "netty" }
 netty-transport-kqueue = { module = "io.netty:netty-transport-native-kqueue", version.ref = "netty" }
-guava = "com.google.guava:guava:21.0"
+guava = "com.google.guava:guava:33.5.0-jre"
 gson = "com.google.code.gson:gson:2.8.0"
 snakeyaml = "org.yaml:snakeyaml:2.2"
 logback = "ch.qos.logback:logback-classic:1.5.16"

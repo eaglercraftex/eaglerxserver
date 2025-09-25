@@ -9,7 +9,7 @@ netty = "4.1.119.Final"
 bungeecord-api = { module = "net.md-5:bungeecord-api", version.ref = "bungeecord" }
 bungeecord-chat = { module = "net.md-5:bungeecord-chat", version.ref = "bungeecord" }
 velocity-api = { module = "com.velocitypowered:velocity-api", version.ref = "velocity" }
-velocity-nightconfig = "com.electronwill.night-config:toml:3.6.7"
+velocity-nightconfig = "com.electronwill.night-config:toml:3.8.3"
 velocity-legacy-serializer = { module = "net.kyori:adventure-text-serializer-json-legacy-impl", version.ref = "velocity-adventure" }
 adventure-api = { module = "net.kyori:adventure-api", version.ref = "velocity-adventure" }
 adventure-serializer-json = { module = "net.kyori:adventure-text-serializer-json", version.ref = "velocity-adventure" }
